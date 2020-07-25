@@ -1,5 +1,2 @@
-Binh dep trai
-
-    Co con quai vat
-    
-o la la...hahahakaka
+This small script is just for collecting table data from https://www.worldometers.info/coronavirus/
+for some studying reasons.
